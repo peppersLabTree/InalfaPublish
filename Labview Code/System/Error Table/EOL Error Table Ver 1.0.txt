@@ -1,0 +1,215 @@
+E - 0000	Sunroof connector is not plugged in	Check the Pallet connection to the switches
+E - 0001	Battery is not at correct Voltage	Check the Power supply
+E - 0002	Switch signals are not correct	Check switch wiring
+E - 0003	Motor did not move	Check switch lines
+E - 0004	Motor Stalled while Moving	Check Module or Communication Lines or Current shunt
+E - 0005	Avg Current Exceeded the Limit	Check Module  - High friction add more break in cycles
+E - 0006	Run Time Exceeded the Limit	Check Module  - High friction add more break in cycles
+E - 0007	Avg Speed is under the Limit	Check Module  - High friction add more break in cycles
+E - 0008	Could not start communication	"Check Motor, Serial Port, Wiring"
+E - 0009	Could not Enter in to Diagnostic mode	"Check Motor, Serial Port, Wiring"
+E - 0010	Could not Exit Dianognostic mode	"Check Motor, Serial Port, Wiring"
+E - 0011	Could not intialize the COMM Port	"Check Serial Port, Wiring"
+E - 0012	Could not read the Motor Parameters	"Check Motor, Serial Port, Wiring"
+E - 0013	Could not Write the Motor Parameters	"Check Motor, Serial Port, Wiring"
+E - 0014	Could notget ACK for Reprogram Command 	"Check Motor, Serial Port, Wiring"
+E - 0015	Could notget ACK for Identification Command 	"Check Motor, Serial Port, Wiring"
+E - 0016	Could not get ACK for Quit Cmd	"Check Motor, Serial Port, Wiring"
+E - 0017	Could not get ACK for Erase Memory Cmd	"Check Motor, Serial Port, Wiring"
+E - 0018	Failed while Flashing Motor	"Check Motor, Serial Port, Wiring"
+E - 0019	Could not get ACK for Position Check Cmd	Check Motor or Communication Hardware
+E - 0020	Hall position is not in range	
+E - 0021	Position Check Failed	
+E - 0022	Software Parameter Check Failed	
+E - 0023	Could not Enter AP Streaming mode	
+E - 0024	Could not Exit AP Streaming mode	
+E - 0025	AP Data Failure (Inalfa Limit)	"Check the Module, High Friction Points"
+E - 0026	AP Data Failure (Supplier Limit)	"Check the Module , High Friction Points"
+E - 0027	Avg Current is under the Limit	Check the Module
+E - 0028	Test Aborted	Check the PLC System
+E - 0029	"AP test failed, Rollo still moving"	Check the Sequence of steps or the rollo controller
+E - 0030	AP Force Exceeded the Limit - Glass	Check the Module
+E - 0031	AP Force Exceeded the Limit - Rollo	Check the Module
+E - 0032	Warning: NVH System is not ready for serial number	Check NVH System
+E - 0033	Warning: NVH System model echo failed.	Check NVH System
+E - 0034	NVH System Errors	Check the Module
+E - 0035	Warning: NVH System not ready for model	Check NVH System
+E - 0036	Warning: NVH System is not online after Model Bits are sent.	Check NVH System
+E - 0037	Warning: NVH System Serial Number read ACK is failed.	Check NVH System
+E - 0038	NVH System is not ready to start the step	Check NVH System
+E - 0039	NVH System could not stop the step	Check NVH System
+E - 0040	NVH System is not ready to start the step	Check NVH System
+E - 0041	AP Wand Not Raised	Check AP Wand or PLC
+E - 0042	AP Wand Not Lowered	Check AP Wand or PLC
+E - 0043	LVDTs are not Extended	Check LVDTs or PLC
+E - 0044	LVDTS are not Retracted	Check LVDTs or PLC
+E - 0045	LVDT's Failed	
+E - 0046	AP Force Not Recorded	Check the Motion Sequence or PMAC
+E - 0047	Did not read the part information from PLC	Check Scanner or PLC BC Data
+E - 0048	Not able to reset memory of the motor	Check motor or Serial Communication
+E - 0049	Varistor Fail	Change the motor
+E - 0050	Could not Reset Memory	
+E - 0051	Noise Failure	Check module
+E - 0052	Flash Process Failed	Check Motor
+E - 0053	Could not get response for Check DTC's Message	Check Motor
+E - 0054	DTC's Set 	Check Motor
+E - 0055	Could not Erase DTC's	Check Motor
+E - 0056	Could not send single message	Check Motor
+E - 0057	Could not get response for status message	
+E - 0058	Could not get response for 1C or 2C message	
+E - 0059	Could not get response for 1D or 2D message	
+E - 0060	LIN Status Check Failed	
+E - 0061	Cold not start LIN communication	
+E - 0062	ECU Hardware Version did not match	
+E - 0063	Part number did not match	
+E - 0064	Could not write date to the motor	
+E - 0065	Could not write serial number to the motor	
+E - 0066	Could not get response for Check Part Number  Message	
+E - 0067	Could not download 64 bytes information	
+E - 0068	ECU Software Version did not match	
+E - 0069	ECU Constant Version did not match	
+E - 0070	Could not clear CAL File Glass	
+E - 0071	Could not clear CAL File Rollo	
+E - 0072	Could Not Read Barcode	
+E - 0073	Flase Reversal Glass	
+E - 0074	False Reversal Rollo	
+E - 0075	Could not get response from Motor	
+E - 0076	Vent Cycles did not match	
+E - 0077	Slide cycles did not match	
+E - 0078	System Mode did not match	
+E - 0079	Check Memory reset failed	
+E - 0080	Motor is not at right voltage	
+E - 0081	Motor is not at right temperature	
+E - 0082	Could not Set Cycle Count	
+E - 0083	Could not Start Tester Present Scheduler	
+E - 0084	Avg Speed Exceeded the Limit	
+E - 0085	Run Time is under the limit	
+E - 0086	Sunshade close force  lower than limit	
+E - 0087	Sunshade close force  higher than Limit	
+E - 0088	Sunshade close avg data not in range	
+E - 0089	sunahde close variance is over the limit	
+E - 0090	Sunshade open force lower than limit	
+E - 0091	Sunshade open force higher than Limit	
+E - 0092	Sunshade open avg data not in range	
+E - 0093	Sunahde open variance is over the limit	
+E - 0094	Bad Switch Signal Glass Vent Open	
+E - 0095	Bad Switch Signal Glass Vent Close	
+E - 0096	Bad Switch Signal Glass Slide Open	
+E - 0097	Bad Switch Signal Glass Slide Close	
+E - 0098	Could not Start CAN Communication	
+E - 0099	Sunsahde Close Servo did not move	
+E - 0100	Sunshade Open servo did nto move	
+E - 0101	Sunshade Servo close moved for too long	
+E - 0102	Sunshade Servo Open Moved too long	
+E - 0103	Bad Switch Signal Shade Open 1	
+E - 0104	Bad Switch Signal Shade Close 1	
+E - 0105	Bad Switch Signal Shade Open 2	
+E - 0106	Bad Switch Signal Shade Close 2	
+E - 0107	Bad Switch Signal Glass Slide Open Shade Open	
+E - 0108	Bad Switch Signal Glass Slide Open Shade Close	
+E - 0109	Bad Switch Signal Glass Slide Close Shade Open	
+E - 0110	Bad Switch Signal Glass Slide Close Shade Close	
+E - 0111	Bad Switch Signal Glass Vent Open Shade Open	
+E - 0112	Bad Switch Signal Glass Vent Open Shade Close	
+E - 0113	Bad Switch Signal Glass Vent Close Shade Open	
+E - 0114	Bad Switch Signal Glass Vent Close Shade Close	
+E - 0115	Glass Slide Open Hella Current Failure	
+E - 0116	Glass Slide Close Hella Current Failure	
+E - 0117	Glass Vent Open Hella Current Failure	
+E - 0118	Glass Vent Close Hella Current Failure	
+E - 0119	Sunshade Open 1 Hella Current Failure	
+E - 0120	Sunshade Open 2 Hella Current Failure	
+E - 0121	Sunshade Close 1 Hella Current Failure	
+E - 0122	Sunshade Close 2 Hella Current Failure	
+E - 0123	Glass Slide Open Current Vs Hall Failure	
+E - 0124	Glass Slide Close Current Vs Hall Failure	
+E - 0125	Glass Vent Open Current Vs Hall Failure	
+E - 0126	Glass Vent Close Current Vs Hall Failure	
+E - 0127	Sunshade Open 1 Current Vs Hall Failure	
+E - 0128	Sunshade Open 2 Current Vs Hall Failure	
+E - 0129	Sunshade Close 1 Current Vs Hall Failure	
+E - 0130	Sunshade Close 2 Current Vs Hall Failure	
+E - 0131	Communication Line is not at right voltage	
+E - 0132	Barcode Mismatch	
+E - 0133	Sunshade Barcode Mismatch	
+E - 0134	Get Part Info Error	Check PLC Has Valid Part Information
+E - 0135	PMAC3000 usb not found	
+E - 0136		
+E - 0137	Mounting Bolts Missing	
+E - 0138		
+E - 0139		
+E - 0140	Could Not Change Motor Flash File Parameters	Flash or Replace Motors
+E - 0141	BMW E70 Spare Error	
+E - 0142	BMW E70 Spare Error	
+E - 0143	BMW E70 Spare Error	
+E - 0144	BMW E70 Spare Error	
+E - 0145	BMW E70 Spare Error	
+E - 0146	BMW E70 Spare Error	
+E - 0147	BMW E70 Spare Error	
+E - 0148	BMW E70 Spare Error	
+E - 0149	BMW E70 Spare Error	
+E - 0150	BMW E70 Spare Error	
+E - 0151	No Motor Foam Presence LH 	
+E - 0152	No Motor Foam Presence LH 	
+E - 0153	No Gap Hider Presence LH	
+E - 0154	No Gap Hider Presence RH	
+E - 0155	No FB Light Block Presence	
+E - 0156	Glass Not Open for LVDT Test	
+E - 0157	Check RSLinx Tag String	
+E - 0158	Set RSLinx Tag String	
+E - 0159	Check RSLinx Tag Boolean	
+E - 0160	Set RSLinx Tag Boolean	
+E - 0161	Check Digital Input	
+E - 0162	Set Digital Output	
+E - 0163	No Wind Deflector	
+E - 0164	Error starting contiLIN
+E - 0165	Error stopping contiLIN
+E - 0166	unexpected LIN comms error during diagnostic session 
+E - 0167	Ill-formed LIN Diagnostic response
+E - 0168	Incorrect LIN Diagnostic response
+E - 0169	Error while waiting for ECU Initialization Procedure
+E - 0170	ECU initialization procedure timeout
+E - 0171	Error during LIN Diagnostic tx schedule
+E - 0172	Error while waiting for ECU Motion
+E - 0173	ECU move procedure timeout
+E - 0174	Unhandled EOL Software Error - See Error Log
+E - 0175	wind deflector not at high speed position
+E - 0176	wind deflector not at low speed position
+E - 0177	NVH operator fail button pressed
+E - 0178	Request seed message no response
+E - 0179	Key value is 0
+E - 0180	Send key message no response
+E - 0181	Un-Calibrate SCU message no response
+E - 0182	Check SCU RP and RF status message no response
+E - 0183	SCU unlearned
+E - 0184	Go to position glass failed
+E - 0185	Go to position sunshade failed
+E - 0186	Inalfa SCU teach failed
+E - 0187	Hold EOL session failed
+E - 0188	Right Side Front Glass stuck in vent
+E - 0189	Left Side Rear Glass stuck in vent
+E - 0190	Left Side Front Glass stuck in vent
+E - 0191	High-Speed WD Check Left Side
+E - 0192	High-Speed WD Check Right Side
+E - 0193	Low-Speed WD Check Left Side
+E - 0194	Low-Speed WD Check Right Side
+E - 0195	Motor Not Calibrated but it should be
+E - 0196	BAAN Number mismatch
+E - 0197	NVH Operator pass and fail mess up
+E - 0198	NVH Operator Vent Open Noise
+E - 0199	NVH Operator Vent Close Noise
+E - 0200	NVH Operator Glass Open Noise
+E - 0201	NVH Operator Glass Close Noise
+E - 0202	NVH Operator Sunshade Open Noise
+E - 0203	NVH Operator Sunshade Open Noise
+E - 0204	AP Wand 02 Not Up	Check AP Wand or PLC
+E - 0205	AP Wand 02 Not down	Check AP Wand or PLC
+E - 0206	AP Force Exceeded the Limit - Rollo02	Check the Module
+E - 0207	Vent AP Force Exceeded the Limit - Glass Vent	Check the Module
+E - 0208	Not the Vent test position - Glass Vent	Check the PLC
+E - 0209	Not the Vent home position - Glass Vent	Check the PLC
+E - 0210  	The noise during the movement of sunroof is lower than the low limit
+E - 0211  	The noise during the movement of sunroof is higher than the high limit
+E - 0212  	direct control motor test faild
+E - 0213	ByteCmd config open error
+E - 0214	LIN message in bytecmd config file is invalid

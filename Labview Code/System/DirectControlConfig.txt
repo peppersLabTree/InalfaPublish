@@ -1,0 +1,19 @@
+[path]
+SwitchCtrlPath = "/D/701/Labview Code/System"
+BaseConfigPath = "/D/701/Labview Code/System"
+
+[SwitchName]
+station1teach = ""
+station1fullopen = ""
+station1fullclose = ""
+station1gotoposition = ""
+station1manualopen = ""
+station1manualclose = ""
+station1setparam = ""
+station2teach = ""
+station2fullopen = ""
+station2fullclose = ""
+station2gotoposition = ""
+station2manualopen = ""
+station2manualclose = ""
+station2setparam = ""

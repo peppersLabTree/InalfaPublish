@@ -1,0 +1,2 @@
+InitATS_Start	Dev1/port0/line0
+InitATS_Abort	Dev1/port0/line1

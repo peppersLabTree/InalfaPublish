@@ -1,0 +1,1003 @@
+
+
+
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:34	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+1	2024/10/10	15:35	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+
+								
+1	2024/10/10	15:37	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:37	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:37	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:37	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/10	15:37	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+
+								
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Up		
+1	2024/10/11	10:11	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	11:50	OE	St0-InitATS	Set Power Supply	New Step	NA	13.50
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	11:51	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	11:51	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+
+								
+1	2024/10/11	13:27	OE	St0-InitATS	Set Power Supply	Edited	13.50	13.50
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:27	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		Glass Position :93, was Checked :TRUE, Sunshade Position :35, was Checked :TRUE
+
+								
+1	2024/10/11	13:32	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Go To Position :7322
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	13:32	OE	St0-InitATS	AT Set Glass Wand Up Bit	Moved Down	NA	NA
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7322	Go To Position :39
+1	2024/10/11	13:32	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	13:32	OE	St0-InitATS	AT set sunshade wand up bit	Edited	NA	NA
+
+								
+1	2024/10/11	14:16	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7322	Go To Position :7322
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7322	Go To Position :7322
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	14:16	OE	St0-InitATS	AT Set Glass Wand Up Bit	Edited	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	Moved Down	NA	NA
+1	2024/10/11	14:16	OE	St0-InitATS	AT set sunshade wand up bit	Copied		
+
+								
+1	2024/10/11	14:17	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7322	Go To Position :7903
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	14:17	OE	St0-InitATS	AT Set Glass Wand Up Bit	Edited	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :39	Go To Position :93
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	14:17	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	14:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :39	Go To Position :80
+
+								
+1	2024/10/11	14:25	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	AT Get Side ATS data	Moved Down	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	AT Get Rollo ATS data	New Step	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :80	Go To Position :80
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :70, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :70, was Checked :TRUE
+1	2024/10/11	14:25	OE	St0-InitATS	AT Set Wand Home Position	Moved Down	NA	NA
+1	2024/10/11	14:25	OE	St0-InitATS	AT Check Data	Moved Down	NA	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+1	2024/10/11	14:25	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7903	Go To Position :93
+
+								
+1	2024/10/11	14:28	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :93	Go To Position :93
+1	2024/10/11	14:28	OE	St0-InitATS	AT Get Side ATS data	Edited	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	14:28	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :80	Go To Position :80
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :70, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :70, was Checked :TRUE
+1	2024/10/11	14:28	OE	St0-InitATS	AT Get Rollo ATS data	Moved Down	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :93	Go To Position :93
+1	2024/10/11	14:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	14:28	OE	St0-InitATS	Check Barcode	Deleted	NA	NA
+
+								
+1	2024/10/11	16:17	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/11	16:17	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :80	Go To Position :80
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :70, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7339, was Checked :TRUE
+1	2024/10/11	16:17	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:17	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	16:20	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+
+								
+1	2024/10/11	16:21	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:21	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	16:28	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	16:38	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	New Step		Vent Cycles :16, Slide Cycles :16
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Down		
+1	2024/10/11	16:38	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	AT Check Data	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Vent Cycles :16, Slide Cycles :16	Vent Cycles :12, Slide Cycles :12
+1	2024/10/11	16:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+
+								
+1	2024/10/11	16:41	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	AT Check Data	Edited	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :200.00, Sunshade AP Force Max Limit :200.00, Sunshade 02 AP Force Max Limit :200.00
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:41	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/10/11	16:50	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Check Data Glass	Moved Down	NA	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	16:50	OE	St0-InitATS	AT Check Data	Deleted	NA	NA
+
+								
+1	2024/10/11	17:55	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/11	17:55	OE	St0-InitATS	AT Check Data Glass	Moved Down	NA	NA
+
+								
+1	2024/10/12	9:44	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	9:44	OE	St0-InitATS	AT Check Data Glass	Edited	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+
+								
+1	2024/10/12	10:18	OE	St0-InitATS	Express Glass Vent Open	New Step	NA	PS Voltage 13.50, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/10/12	10:18	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Express Glass Vent Close	Edited	PS Voltage 0.00, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 0.00, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :768, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :7322	Go To Position :7322
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:18	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	10:20	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Express Glass Vent Close	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Set to Vent ATS pos	Moved Down	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Set to Vent Home pos	Moved Down	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :768, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:20	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	10:28	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Express Glass Vent Open	Moved Down	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+1	2024/10/12	10:28	OE	St0-InitATS	Express Glass Vent Close	Deleted	NA	NA
+
+								
+1	2024/10/12	10:44	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Up	Go To Position :7322	Go To Position :7322
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :FALSE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/12	10:44	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Up	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE
+1	2024/10/12	10:44	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE
+1	2024/10/12	10:44	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:44	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	10:47	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+1	2024/10/12	10:47	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+
+								
+1	2024/10/12	10:48	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE
+1	2024/10/12	10:48	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+1	2024/10/12	10:48	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+
+								
+1	2024/10/12	10:49	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :682, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE	Glass Position :682, was Checked :TRUE, Sunshade Position :3972, was Checked :TRUE
+1	2024/10/12	10:49	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:49	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	10:52	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :3968, was Checked :TRUE
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Down	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	Moved Up		
+1	2024/10/12	10:52	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :3968, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :3968, was Checked :TRUE
+1	2024/10/12	10:52	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Go To Position :80	Go To Position :80
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:52	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	10:57	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :3968, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7343, was Checked :TRUE
+1	2024/10/12	10:57	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :7903, was Checked :TRUE, Sunshade Position :7339, was Checked :TRUE	Glass Position :7903, was Checked :TRUE, Sunshade Position :7339, was Checked :TRUE
+1	2024/10/12	10:57	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	10:57	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/12	11:16	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited	Glass Position :93, was Checked :TRUE, Sunshade Position :7322, was Checked :TRUE	Glass Position :93, was Checked :TRUE, Sunshade Position :7340, was Checked :TRUE
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/12	11:16	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/10/21	17:06	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:06	OE	St0-InitATS	AT Check Data	Edited	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+1	2024/10/21	17:06	OE	St0-InitATS	AT Check Data Glass	Deleted	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+
+								
+1	2024/10/21	17:20	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/21	17:20	OE	St0-InitATS	AT Check Data Glass	Moved Down	NA	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+1	2024/10/21	17:20	OE	St0-InitATS	AT Check Data	Deleted	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+
+								
+1	2024/10/30	14:23	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+1	2024/10/30	14:23	OE	St0-InitATS	Send LIN Message for inalfa SCU	Deleted	NA	NA
+
+								
+1	2024/11/4	11:05	OE	St0-InitATS	Set Power Supply	Edited	13.50	13.50
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	11:05	OE	St0-InitATS	AT Check Data Glass	Edited	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00	PS Voltage :13.50, Glass AP Force Max Limit :85.00, Sunshade AP Force Max Limit :85.00, Sunshade 02 AP Force Max Limit :85.00
+
+								
+1	2024/11/4	12:36	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	12:36	OE	St0-InitATS	AT Check Data Glass	Edited	PS Voltage :13.50, Glass AP Force Max Limit :85.00, Sunshade AP Force Max Limit :85.00, Sunshade 02 AP Force Max Limit :85.00	PS Voltage :13.50, Glass AP Force Max Limit :100.00, Sunshade AP Force Max Limit :100.00, Sunshade 02 AP Force Max Limit :100.00
+
+								
+1	2024/11/4	15:16	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	New Step		
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/4	15:16	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/11/5	13:36	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:36	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								
+1	2024/11/5	13:38	OE	St0-InitATS	Set Power Supply	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Express Glass Vent Open	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Set to Vent ATS pos	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Set to Vent Home pos	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Set Glass Wand Up Bit	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Get Side ATS data	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Set Sunshade Wand Up Bit	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Get Rollo ATS data	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Set Wand Home Position	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/5	13:38	OE	St0-InitATS	AT Check Data Glass	No Change	NA	NA
+
+								

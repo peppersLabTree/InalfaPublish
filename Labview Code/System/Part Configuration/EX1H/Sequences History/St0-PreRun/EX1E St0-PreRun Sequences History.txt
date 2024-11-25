@@ -1,0 +1,375 @@
+1	2024/11/21	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	New Step		
+1	2024/11/21	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Moved Down		
+1	2024/11/21	16:26	EX1E	St0-PreRun	Express Sunshade Open	Moved Down	NA	NA
+1	2024/11/21	16:26	EX1E	St0-PreRun	Express Sunshade Close	Moved Down	NA	NA
+
+								
+1	2024/11/21	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:29	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	16:29	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	16:30	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	17:08	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	17:08	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Express Sunshade Close	Moved Up	PS Voltage 13.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/11/21	17:09	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 12.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+
+								
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	17:09	EX1E	St0-PreRun	Express Sunshade Close	Moved Down	NA	NA
+
+								
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	18:17	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/21	18:18	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/21	18:18	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:49	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Copied	NA	NA
+
+								
+1	2024/11/22	9:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Open	Copied	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Close	Copied	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Open	Copied	NA	NA
+1	2024/11/22	9:50	EX1E	St0-PreRun	Express Sunshade Close	Copied	NA	NA
+
+								
+1	2024/11/22	11:21	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 10.00, Max Speed 10.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:21	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	11:24	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 10.00, Max Speed 10.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 10.00, Max Speed 10.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:24	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	11:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 105.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 105.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	11:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 105.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	11:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	13:35	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	13:35	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	14:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 8.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:50	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	14:51	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 2.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00	PS Voltage 13.60, Min Avg Current 1.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:51	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	14:58	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Open	Edited	PS Voltage 13.60, Min Avg Current 1.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? TRUE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? TRUE, Check Sound TRUE, Max Sound (dB) 50.00, Min Sound (dB) 55.00	PS Voltage 13.60, Min Avg Current 1.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? TRUE, Check Run Time? TRUE, Check Speed? TRUE, Express Motion? TRUE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? TRUE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? TRUE, Check Sound FALSE, Max Sound (dB) 50.00, Min Sound (dB) 55.00
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	14:58	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Moved Up		
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Moved Up		Vent Cycles :12, Slide Cycles :12
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Moved Up	Vent Cycles :12, Slide Cycles :12	Vent Cycles :12, Slide Cycles :12
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Moved Up		Go To Position :1500
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Moved Up	Go To Position :1500	Glass Position :0, was Checked :TRUE, Sunshade Position :1500, was Checked :TRUE
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Copied	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Deleted	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Moved Up		Vent Cycles :12, Slide Cycles :12
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Copied	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Moved Up	Vent Cycles :12, Slide Cycles :12	Vent Cycles :12, Slide Cycles :12
+1	2024/11/22	15:04	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Copied	NA	NA
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Close	Moved Up		Go To Position :1500
+1	2024/11/22	15:04	EX1E	St0-PreRun	Express Sunshade Open	Copied		
+
+								
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	15:07	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited	Vent Cycles :12, Slide Cycles :12	Vent Cycles :12, Slide Cycles :12
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:25	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:25	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	16:25	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	16:26	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited	Glass Position :0, was Checked :TRUE, Sunshade Position :1500, was Checked :TRUE	Glass Position :0, was Checked :FALSE, Sunshade Position :1500, was Checked :TRUE
+1	2024/11/22	16:29	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	16:29	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+
+								
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited	Data Bytes :2E FE  B 11 22 33 44 55 66 77 88 99  0 11 22 33 44 	Data Bytes :2E FE  B 11 22 33 44 55 66 77 88 99  0 11 22 33 44 
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited	Data Bytes :2E FE  A 11 22 33 44 55 66 77 88 99 	Data Bytes :2E FE  A 11 22 33 44 55 66 77 88 99 
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Moved Up	Data Bytes :22 FD 10 	Data Bytes :22 FD 10 
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Moved Up	Data Bytes :22 FE  A 	Data Bytes :22 FE  A 
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Moved Up	Data Bytes :22 FE  B 	Data Bytes :22 FE  B 
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Moved Up		
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Express Sunshade Open	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Express Sunshade Close	No Change	NA	NA
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+1	2024/11/22	16:31	EX1E	St0-PreRun	Send LIN Message for inalfa SCU	Edited		
+
+								

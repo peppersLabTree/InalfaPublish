@@ -1,0 +1,109 @@
+[Last Update]
+Time = "1747"
+Date = "06-19-2024"
+Shift = "Shift A"
+Week = "25"
+
+[Week]
+Target Per Week = 1000    
+Actual Per Week = 2    
+FTT Target = 95
+Target Cummulative Per Week = 252    
+
+[Shift Schedule]
+Shift1 = 100
+Shift2 = 100
+Shift3 = 100
+Shift4 = 100
+Shift5 = 100
+Shift6 = 100
+Shift7 = 100
+Shift8 = 100
+Shift9 = 100
+Shift10 = 100
+Shift11 = 0
+Shift12 = 0
+Shift13 = 0
+Shift14 = 0
+
+[Shift A]
+Start Time = 0800
+End Time = 1959
+Target Per Shift = 100    
+Actual Per Shift = 2    
+Reject = 9    
+Hour1 = "700,759,15,2,0"
+Hour2 = "800,859,17,0,0"
+Hour3 = "900,959,13,0,0"
+Hour4 = "1000,1059,17,0,0"
+Hour5 = "1100,1159,8,0,0"
+Hour6 = "1200,1259,17,0,0"
+Hour7 = "1300,1359,13,0,0"
+Hour8 = "1400,1459,17,0,0"
+Hour9 = "1500,1559,8,0,0"
+Hour10 = "0,0,28,0,0"
+Hour11 = "0,0,28,0,0"
+Hour12 = "0,0,28,0,0"
+FTT Reject = 0    
+Target Cummulative Per Shift = 252    
+FTT Percentage = 100    
+Actual Per hour = 2    
+Target Cummulative Per Hour = 252    
+
+[Shift B]
+Start Time = 2000
+End Time = 0759
+Target Per Shift = 100
+Actual Per Shift = 0
+Reject = 0
+Hour1 = "1530,1559,8,0,0"
+Hour2 = "1600,1659,17,0,0"
+Hour3 = "1700,1759,13,0,0"
+Hour4 = "1800,1859,17,0,0"
+Hour5 = "1900,1959,8,0,0"
+Hour6 = "2000,2059,17,0,0"
+Hour7 = "2100,2159,13,0,0"
+Hour8 = "2200,2259,17,0,0"
+Hour9 = "2300,2359,15,0,0"
+Hour10 = "0,0,28,0,0"
+Hour11 = "0,0,28,0,0"
+Hour12 = "0,0,28,0,0"
+FTT Reject = 0
+Target Cummulative Per Shift = 70
+FTT Percentage = 100
+Actual Per hour = 14
+Target Cummulative Per Hour = 7
+
+[Serial Numbers]
+SN 1 = ""
+SN 2 = "13607302020"
+SN 3 = "37307292020"
+SN 4 = "34307292020"
+SN 5 = "32007292020"
+SN 6 = "15807292020"
+SN 7 = "07007282020"
+SN 8 = "06507272020"
+SN 9 = "01407272020"
+SN 10 = "24907242020"
+
+[Shift C]
+Actual Per Shift = 0
+Reject = 0
+FTT Reject = 0
+Hour1 = ""
+Hour2 = ""
+Hour3 = ""
+Hour4 = ""
+Hour5 = ""
+Hour6 = ""
+Hour7 = ""
+Hour8 = ""
+Hour9 = ""
+Hour10 = ""
+Hour11 = ""
+Hour12 = ""
+Target Per Shift = 0
+Target Cummulative Per Shift = 0
+FTT Percentage = 100
+Actual Per hour = 1
+Target Cummulative Per Hour = 0

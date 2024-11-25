@@ -1,0 +1,101 @@
+No File Exists with the file name: <Not A Path>			
+2024年10月10日	13:39:33	-200077	EOL Main Data Acquisition Loop 
+2024年10月10日	13:39:52	-200077	EOL Main Data Acquisition Loop 
+2024年10月11日	10:36:54	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月11日	10:37:02	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月11日	10:37:18	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月11日	10:37:26	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月11日	15:03:37	1430	Error in St0-InitATS, Get Sequences, Wrong Part Type From PLC at -  St0-InitATS 
+No File Exists with the file name: <Not A Path>			
+2024年10月12日	12:41:45	-200279	EOL Main Data Acquisition Loop 
+2024年10月30日	10:38:44	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:38:45	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:38:57	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:38:58	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:39:18	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:39:18	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:41:03	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:41:04	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:47:23	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:47:32	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:47:56	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:47:57	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:48:12	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:48:20	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:40	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:41	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:47	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:48	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:51	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年10月30日	10:49:52	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年11月1日	11:27:45	81	Error in St0-InitATS, , error in 'set connect-- connect is wrong!' the code is 81
+2024年11月1日	11:27:45	-200088	Error in St0-InitATS, Init, EOL Digital Inputs v2.vi<append>
+			
+2024年11月1日	11:31:08	81	Error in St0-InitATS, , error in 'set connect-- connect is wrong!' the code is 81
+2024年11月1日	11:31:08	-200088	Error in St0-InitATS, Init, EOL Digital Inputs v2.vi<append>
+			
+2024年11月8日	11:24:36	7	Error in st?, Get Sequences, Wrong Part Type From PLC at -  st? 
+No File Exists with the file name: <Not A Path>			
+2024年11月8日	11:25:06	1	Error in st?, Save Data, Create Folder in EOL Save Module Test Data v2.6.vi->test exe main.vi:620002->EOL Main.vi<APPEND>
+C:\Database_NC\2024-11月\st?\Data Bytes Log\11月 08 2024			
+2024年11月8日	11:25:21	7	Error in st?, Get Sequences, Wrong Part Type From PLC at -  st? 
+No File Exists with the file name: <Not A Path>			
+2024年11月8日	11:26:01	1	Error in st?, Save Data, Create Folder in EOL Save Module Test Data v2.6.vi->test exe main.vi:620002->EOL Main.vi<APPEND>
+C:\Database_NC\2024-11月\st?\Data Bytes Log\11月 08 2024			
+2024年11月8日	12:01:11	7	Error in St1-offLine, Get Sequences, Wrong Part Type From PLC at -  St1-offLine 
+No File Exists with the file name: <Not A Path>			
+2024年11月11日	16:56:51	-2147417843	Error in St1-offLine, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.<ERR>			
+2024年11月11日	16:56:51	-2147417843	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.<ERR>			
+2024年11月13日	15:14:42	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年11月13日	15:14:50	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年11月13日	16:14:30	-2147467259	Error in St0-InitATS, Init Test, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年11月13日	16:14:39	-2147467259	Error in St0-InitATS, Write Test Complete to PLC, DataSocket Write Variant.vi
+Active:Can't write data.  未指定的错误<ERR>			
+2024年11月21日	13:59:52	-200170	Error in St0-PreRun, , DAQmx Create Channel (DI-Digital Input).vi:2320001<append>
+<B>设备: </B>Dev2			
+<B>物理通道名称: </B>port0/line0			
+			
+<B>任务名称: </B>_unnamedTask<0>			
+2024年11月21日	13:59:53	-200478	Error in St0-PreRun, Init, EOL Digital Inputs v2.vi<append>
+<B>任务名称: </B>_unnamedTask<0>			
+2024年11月21日	14:00:44	-200170	Error in St0-PreRun, Check Input, DAQmx Create Channel (DI-Digital Input).vi:2320001<append>
+<B>设备: </B>Dev2			
+<B>物理通道名称: </B>port0/line0			
+			
+<B>任务名称: </B>_unnamedTask<1>			
+2024年11月21日	14:00:44	-200478	Error in St0-PreRun, Init, EOL Digital Inputs v2.vi<append>
+<B>任务名称: </B>_unnamedTask<1>			
+2024年11月21日	14:02:23	7	Error in St0-PreRun, Get Sequences, Wrong Part Type From PLC at -  St0-PreRun 
+No File Exists with the file name: <非法路径>			
+2024年11月21日	15:26:05	-1074384758	Error in St0-PreRun, Send LIN Uncond Frame, XNET Create Session (Frame Output Stream).vi:7500001
+2024年11月21日	15:26:57	-1074384758	Error in St0-PreRun, Send LIN Uncond Frame, XNET Create Session (Frame Output Stream).vi:7500001
+2024年11月21日	16:12:08	74	Error in St0-PreRun, Send LIN Uncond Frame, Send LIN Uncond Frame.vi->test exe main.vi:620001->EOL Main.vi中的从字符串还原

@@ -1,0 +1,4 @@
+Send LIN Message for inalfa SCU	Enter Diagnostic Mode QC	
+Send LIN Message for inalfa SCU	Un-Calibrate SCU	
+Send LIN Message for inalfa SCU	Inalfa SCU Teach	
+Send LIN Message for inalfa SCU	Check SCU RP and RF status	

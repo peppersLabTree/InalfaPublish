@@ -1,0 +1,9 @@
+Send LIN Message for inalfa SCU	Enter Diagnostic Mode QC	
+Send LIN Message for inalfa SCU	Check Software Version	
+Send LIN Message for inalfa SCU	Check Hardware Version	
+Send LIN Message for inalfa SCU	Check Cal file Version	
+Send LIN Message for inalfa SCU	Un-Calibrate SCU	
+Send LIN Message for inalfa SCU	Check SCU RP and RF status	
+Send LIN Message for inalfa SCU	Inalfa SCU Teach	
+Send LIN Message for inalfa SCU	Set Cycle Counts	Vent Cycles :12, Slide Cycles :12
+Send LIN Message for inalfa SCU	Check Cycle Counts	

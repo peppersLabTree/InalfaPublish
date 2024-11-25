@@ -1,0 +1,27 @@
+Send LIN Message for inalfa SCU	Wake up	
+Express Glass Slide Open		PS Voltage 12.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+Send LIN Message for inalfa SCU	Wake up	
+Express Glass Slide Close		PS Voltage 12.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+Send LIN Message for inalfa SCU	Enter Diagnostic Mode QC	
+Send LIN Message for inalfa SCU	Check Software Version	
+Send LIN Message for inalfa SCU	Check Hardware Version	
+Send LIN Message for inalfa SCU	Check Cal file Version	
+Send LIN Message for inalfa SCU	Send Single Message, Write Part Numb	Data Bytes :2E FE  B 11 22 33 44 55 66 77 88 99  0 11 22 33 44 
+Send LIN Message for inalfa SCU	Send Single Message, Write Serial Numb	Data Bytes :2E FE  A 11 22 33 44 55 66 77 88 99 
+Send LIN Message for inalfa SCU	Send Single Message, ID	Data Bytes :22 FD 10 
+Send LIN Message for inalfa SCU	Send Single Message, read ser numb	Data Bytes :22 FE  A 
+Send LIN Message for inalfa SCU	Send Single Message, read part numb	Data Bytes :22 FE  B 
+Send LIN Message for inalfa SCU	Un-Calibrate SCU	
+Send LIN Message for inalfa SCU	Inalfa SCU Teach	
+Send LIN Message for inalfa SCU	Check SCU RP and RF status	
+Send LIN Message for inalfa SCU	Set Cycle Counts	Vent Cycles :12, Slide Cycles :12
+Send LIN Message for inalfa SCU	Check Cycle Counts	
+Send LIN Message for inalfa SCU	Go to position sunshade	Go To Position :1500
+Send LIN Message for inalfa SCU	Go to position glass	Go To Position :1500
+Send LIN Message for inalfa SCU	Check hall position glass and sunshade	Glass Position :0, was Checked :FALSE, Sunshade Position :1500, was Checked :TRUE
+Delay In Seconds		1.00
+Express Sunshade Open		PS Voltage 13.60, Min Avg Current 1.00, Max Avg Current 3.00, Min Run Time 2.00, Max Run Time 7.00, Min Speed 100.00, Max Speed 110.00, AP Data % of Threshold 0.00, Travel Distance 500.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 10.00, Min max Current 1.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 50.00, Min Sound (dB) 55.00
+Send LIN Message for inalfa SCU	Wake up	
+Express Sunshade Close		PS Voltage 13.60, Min Avg Current 0.00, Max Avg Current 0.00, Min Run Time 0.00, Max Run Time 0.00, Min Speed 0.00, Max Speed 0.00, AP Data % of Threshold 0.00, Travel Distance 0.00, AP Data Type 91/61, Check Current? FALSE, Check Run Time? FALSE, Check Speed? FALSE, Express Motion? FALSE, Check Sound Test? FALSE, Check Position? FALSE, Collect AP Data? FALSE, Initial Position 0, End Position 0, Go To Position 0, Max max Current 0.00, Min max Current 0.00, Check max Current? FALSE, Check Sound FALSE, Max Sound (dB) 0.00, Min Sound (dB) 0.00
+Send LIN Message for inalfa SCU	Check DTC	
+Send LIN Message for inalfa SCU	Clear DTC	

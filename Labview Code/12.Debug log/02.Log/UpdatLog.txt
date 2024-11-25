@@ -1,0 +1,77 @@
+V4.2.2.0
+1.修复excel文件存储串位问题；
+2.增加二级密码校验；
+20240828     --HXJ
+1.删除调用“Check Initial Position”分支的文本；
+2.从“Start Test”改为“Init”调用“Init Comm Port”分支
+
+20240821-        -- Fergus
+1.恢复check init motion 中关于pass 信号取反后反馈至状态插入；
+2.删除reset switch output 分支中 关于teach的一些条件判断；
+3.check motior connection 分支中，将pass信号反馈接入状态；
+4.check power data 分支中，将pass信号反馈接入状态；
+5.check switch signals 分支中，将pass 信号反馈接入状态；
+5.优化手动界面刷新周期，增加判断是否需要进行Rlin更新（若OPC变量全部部署，会导致扫描周期加长）；
+20240813-16     -- Fergus
+1.更新 main state cluster 簇结构，将ADCS info 与 其他LIN toolkits 进行标准化整合；
+2.更新 read station LIN config vi，从当前vi 加载所有LIN配置；
+3.编写OPC数据规范，标准化数据地址；
+4.更新 Inalfa LIN、ADCS LIN、TS LIN 工具包，通过配置文件进行工具选择并加载对应配置；
+5.修复low-Cost LIN 在嵌入EOL中自动运行时，系统宕机问题；
+6.优化 station config ini 文件，增加 LIN NAD、LDF file name 配置；
+7.标准化前面板，按照4工位作为EOL基准；
+8.更新手动界面，加入ADCS LIN 测试功能-----ongoing
+20240731-08 -- Fergus
+1.修复当NVH掉线时，EOL无法通过尝试次数结束并报错；
+20240715-17 -- Fergus
+1.增加NVH Status 界面，获取NVH当前测试状态及通讯信号状态；
+2.修复motion type 发送指令无效问题；
+3.增加异步调用NVH 程序，当EOL程序启动时自动调用NVH程序（NVH程序自动隐藏前面板）；
+4.
+20240711 -- Fergus
+1.删除test main 中所有无关项（BAAN\Comm Line\AP Force\Sv\send to pos等）；
+2.精简项目数据簇，删除关于扫码相关内容；
+20240710 -- Fergus
+1.删除P42M在test mian 中的所有相关（10+项case分支，多个sub vi），修复报错；
+2.删除P42M在Manual control、barcode main中的所有相关，修复报错；
+3.删除BMW在test main 中的所有相关，修复报错，解决依赖关系；
+4.修复在NVH测试时无法检测到Ser number 值，导致测试循环等待的问题；
+5.解决项目存在的依赖关系（10余项）；
+20240709 -- Fergus
+1.恢复NVH测试相关vi；（在Start Test 中增加 Initialize NVH Test 序列，其余更新NVH相关）
+2.NVH System 增加网络变量（详见软件变量lib）；
+3.删除P42M的数据簇；
+20230511 -- Fergus
+1.3.更改Send lin message vi，将超时时间更改为3s，并将进入诊断的三条指令下将超时设置为1.5S；Re Send改为1s，3次；
+20230511 -- Fergus
+1.更改静音房测试步骤，在设置电压后新增1.5s等待，确保ECU就绪进行测试；
+2.更改所有工位测试步骤，仅保留一次电压设置Set ps；
+3.更改Send lin message vi，将超时时间更改为1.5s，并在gotoPos指令下将超时设置为3S；
+20230510 -- Fergus
+1.增加Check Power Data 时间分支，更改测试逻辑，将set ps 更改为 check ps，减少程序过程中的电压设置次数，避免电压发送丢包（14.8-1.8问题）
+2.新增check ps data vi，检测TDK当前电压是否满足；
+3.更改EOL LIN_Send_Single_Message.vi，取消弹窗报错，更改为直接消除报错。
+4.更改Set ps vi，增加电压检测，当前电压满足需求时不再发送数据（±0.1V）；
+20230509 -- Fergus
+1.1.更改Send Lin Message vi子vi，增加1ms“消抖” ，为了确认切换Lin请求；验证中---验证失败；
+	将此vi更改为重入执行，验证中---
+2.更改通讯电流检测阈值0.3-0.2，更改通讯电流采集样本空间10-15，更改报错检测count 10-15；
+20230506 -- Fergus
+1.更改Send Lin Message vi，取消上一次更新的EOL模式保持校验检查，取消新增的反馈报文7F处理，恢复发送vi超时时间；
+2.ATS测试站修改测试步序，增加4s等待，让SCU退出诊断并重新进入；
+3.更改PLC bool 变量读取vi，将等待超时时间恢复至30S；
+4.更改Transmit Complete vi的超时时间，将5s更改为默认10s；---观察是否再出现弹窗报错
+5.更改Send Lin Message vi，恢复----观察中
+20230504 -- Fergus
+1.更改Send Lin Message vi，更改执行重入模式，将非重入执行更改为预分配的可重入；从而修正各工位抢占Lin Send 问题；
+2.更改Send Lin Message vi，增加EOL 模式保持校验检查，当本次调用与上次调用超过6s且在15s内，将自动进入诊断，防止掉出EOL模式；
+3.更改电流采集通讯VI，更改报错响应机制，当检测到丢包时进行累加，计数超过10认为在通讯异常，并将原来的报错后初始化TDK更改为重新连接Com，
+  试图解决ATS天窗异常停止问题，待观察；
+20230411 -- Fergus
+1.更改EOL主程序，增加error init vi，修复前面板错误代码及信息不更新问题；
+2.更改next state vi，当错误发生时传递上次的seq name；
+
+20230412 -- Fergus
+1.更改电流检测vi，更改判定逻辑：当通讯电流值均不为0，认为通讯正常，按照通讯进行判定天窗是否停止；当通讯电流值均为0，认为通讯异常，按照采集卡进行判定天窗是否停止；
+2.更改电流检测vi：ST55工位偶发出现天窗运行中采集卡采集电流值小于0，采用更新1的方法解决此问题；
+3.更改通讯电流采集vi，更改采样大小50→10；

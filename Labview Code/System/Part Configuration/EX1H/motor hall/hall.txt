@@ -1,0 +1,7 @@
+[Hall Counts]
+sunshade full open = 1500  
+sunshade full close = 40   
+sunshade goto position = 1500    
+sunshade open drift offset = 25
+sunshade close drift offset = 25
+sunshade goto position drift offset = 35

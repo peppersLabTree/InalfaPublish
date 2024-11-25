@@ -1,0 +1,504 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                        Mentor Graphics Corporation                         */
+/*                            All rights reserved                             */
+/*                                                                            */
+/* ************************************************************************** */
+/*                                                                            */
+/*  Description:   LIN Description file                                       */
+/*  System:        xMA19021                                                   */
+/*  Variant:       CMA15                                                      */
+/*  Cluster:       CEM_LIN3                                                   */
+/*  Master:        CEM_LIN3                                                   */
+/*  Generated at:  2019-07-12 12:39:03                                        */
+/*                                                                            */
+/* ************************************************************************** */
+/*                                                                            */
+/*                THIS CONFIGURATION MIGHT CONTAIN SOME ERRORS                */
+/*                 IF THE INPUT MODEL WAS NOT PROPERLY FORMED!                */
+/*                       Do Not Use this File directly!                       */
+/*                                                                            */
+/* ************************************************************************** */
+
+LIN_description_file;
+LIN_protocol_version = "2.1";
+LIN_language_version = "2.1";
+LIN_speed = 19.2 kbps;
+Channel_name = "CEM_LIN3";
+
+Nodes {
+  Master: CEM_CEM_LIN3, 5 ms, 1 ms ;
+  Slaves: SRM_CEM_LIN3 ;
+}
+
+Signals {
+  XCP_MasterReq_B0: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B1: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B2: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B3: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B4: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B5: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B6: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_MasterReq_B7: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  XCP_SlaveResp_B0: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B1: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B2: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B3: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B4: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B5: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B6: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  XCP_SlaveResp_B7: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_CloseSwitchError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_APActive: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_ECUError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_Movement_Status: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_Switch_Status: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_ThermalProtection: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_OverVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_UnderVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_Response_Error: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_LogicStatus: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_OpenSwitchError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_Initialized: 2, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_POS_VIT: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_HallError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  Sunroof_StallActive: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsPosition_VR_APP: 7, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsAntiPinch: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsRelayFault: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsHallSensorFault: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsThermalProtection: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsOverVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsUnderVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsPositionCount: 16, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsMovement: 3, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsSwitch: 3, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsNormalized: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsTeachRun: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SsMasterSlave: 5, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  SunshadeErrorSts: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3 ;
+  VIU_AmbientTemperature: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  VIU_VehicleSpeed: 13, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  VIU_SunRoof_ControlReq: 3, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  VIU_IGNStatus: 2, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  SrTelmCtrl: 4, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  SsTelmCtrl: 4, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+  VIU_SunRoof_ControlReq2: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3 ;
+}
+
+Diagnostic_signals {
+  MasterReqB0: 8, 0 ;
+  MasterReqB1: 8, 0 ;
+  MasterReqB2: 8, 0 ;
+  MasterReqB3: 8, 0 ;
+  MasterReqB4: 8, 0 ;
+  MasterReqB5: 8, 0 ;
+  MasterReqB6: 8, 0 ;
+  MasterReqB7: 8, 0 ;
+  SlaveRespB0: 8, 0 ;
+  SlaveRespB1: 8, 0 ;
+  SlaveRespB2: 8, 0 ;
+  SlaveRespB3: 8, 0 ;
+  SlaveRespB4: 8, 0 ;
+  SlaveRespB5: 8, 0 ;
+  SlaveRespB6: 8, 0 ;
+  SlaveRespB7: 8, 0 ;
+}
+
+
+
+Frames {
+  XCP_MasterReq: 58, CEM_CEM_LIN3, 8 {
+    XCP_MasterReq_B0, 0 ;
+    XCP_MasterReq_B1, 8 ;
+    XCP_MasterReq_B2, 16 ;
+    XCP_MasterReq_B3, 24 ;
+    XCP_MasterReq_B4, 32 ;
+    XCP_MasterReq_B5, 40 ;
+    XCP_MasterReq_B6, 48 ;
+    XCP_MasterReq_B7, 56 ;
+  }
+  XCP_SlaveResp: 59, SRM_CEM_LIN3, 8 {
+    XCP_SlaveResp_B0, 0 ;
+    XCP_SlaveResp_B1, 8 ;
+    XCP_SlaveResp_B2, 16 ;
+    XCP_SlaveResp_B3, 24 ;
+    XCP_SlaveResp_B4, 32 ;
+    XCP_SlaveResp_B5, 40 ;
+    XCP_SlaveResp_B6, 48 ;
+    XCP_SlaveResp_B7, 56 ;
+  }
+  Sunroof_Status: 36, SRM_CEM_LIN3, 8 {
+    Sunroof_CloseSwitchError, 3 ;
+    Sunroof_APActive, 4 ;
+    Sunroof_ECUError, 6 ;
+    Sunroof_Movement_Status, 16 ;
+    Sunroof_Switch_Status, 20 ;
+    Sunroof_ThermalProtection, 24 ;
+    Sunroof_OverVoltage, 25 ;
+    Sunroof_UnderVoltage, 26 ;
+    Sunroof_Response_Error, 27 ;
+    Sunroof_LogicStatus, 28 ;
+    Sunroof_OpenSwitchError, 2 ;
+    Sunroof_Initialized, 0 ;
+    Sunroof_POS_VIT, 8 ;
+    Sunroof_HallError, 7 ;
+    Sunroof_StallActive, 5 ;
+  }
+  Sunshade_1_Reserved: 20, SRM_CEM_LIN3, 8 {
+    SsPosition_VR_APP, 40 ;
+    SsAntiPinch, 47 ;
+    SsRelayFault, 1 ;
+    SsHallSensorFault, 2 ;
+    SsThermalProtection, 3 ;
+    SsOverVoltage, 4 ;
+    SsUnderVoltage, 5 ;
+    SsPositionCount, 8 ;
+    SsMovement, 24 ;
+    SsSwitch, 27 ;
+    SsNormalized, 30 ;
+    SsTeachRun, 31 ;
+    SsMasterSlave, 35 ;
+    SunshadeErrorSts, 0 ;
+  }
+  VIUFL_LIN_3: 5, CEM_CEM_LIN3, 8 {
+    VIU_AmbientTemperature, 40 ;
+    VIU_VehicleSpeed, 27 ;
+    VIU_SunRoof_ControlReq, 2 ;
+    VIU_IGNStatus, 0 ;
+    VIU_SunRoof_ControlReq2, 8 ;
+  }
+  BCM_23_Reserved: 38, CEM_CEM_LIN3, 8 {
+    SrTelmCtrl, 32 ;
+    SsTelmCtrl, 36 ;
+  }
+}
+
+
+
+Diagnostic_frames {
+  MasterReq: 0x3c {
+    MasterReqB0, 0 ;
+    MasterReqB1, 8 ;
+    MasterReqB2, 16 ;
+    MasterReqB3, 24 ;
+    MasterReqB4, 32 ;
+    MasterReqB5, 40 ;
+    MasterReqB6, 48 ;
+    MasterReqB7, 56 ;
+  }
+  SlaveResp: 0x3d {
+    SlaveRespB0, 0 ;
+    SlaveRespB1, 8 ;
+    SlaveRespB2, 16 ;
+    SlaveRespB3, 24 ;
+    SlaveRespB4, 32 ;
+    SlaveRespB5, 40 ;
+    SlaveRespB6, 48 ;
+    SlaveRespB7, 56 ;
+  }
+}
+
+Node_attributes {
+  SRM_CEM_LIN3{
+    LIN_protocol = "2.1" ;
+    configured_NAD = 0x78 ;
+    initial_NAD = 0x78 ;
+    product_id = 0x7, 0x0, 0 ;
+    P2_min = 50 ms ;
+    ST_min = 0 ms ;
+    N_As_timeout = 1000 ms ;
+    N_Cr_timeout = 1000 ms ;
+    configurable_frames {
+      XCP_MasterReq ;
+      XCP_SlaveResp ;
+      Sunroof_Status ;
+      Sunshade_1_Reserved ;
+      VIUFL_LIN_3 ;
+      BCM_23_Reserved ;
+    }
+  }
+}
+
+Schedule_tables {
+ Cem_Lin3DiagRequestSchedule_CEM_LIN3 {
+    MasterReq delay 15 ms ;
+  }
+ Cem_Lin3DiagResponseSchedule_CEM_LIN3 {
+    SlaveResp delay 15 ms ;
+  }
+ Cem_Lin3Schedule01_CEM_LIN3 {
+    VIUFL_LIN_3 delay 15 ms ;
+    Sunroof_Status delay 15 ms ;
+  }
+ DebugTable {
+    XCP_MasterReq delay 15 ms ;
+    XCP_SlaveResp delay 15 ms ;
+  }
+ XCP_Daq_Table {
+    XCP_SlaveResp delay 15 ms ;
+  }
+}
+
+
+Signal_encoding_types {
+  SsAntiPinch_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  SsHallSensorFault_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  SsMasterSlave_Encoding {
+    physical_value, 0, 31, 1, 0, "Unitless" ;
+  }
+  SsMovement_Encoding {
+    logical_value, 0, "Stopped" ;
+    logical_value, 1, "Reserved" ;
+    logical_value, 2, "Reserved" ;
+    logical_value, 3, "Opening slide" ;
+    logical_value, 4, "Closing slide" ;
+    logical_value, 5, "Reversing (AP/Stall)" ;
+    logical_value, 6, "Not normalized" ;
+    logical_value, 7, "Reserved" ;
+  }
+  SsNormalized_Encoding {
+    logical_value, 0, "not normalized" ;
+    logical_value, 1, "normalized" ;
+  }
+  SsOverVoltage_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  SsPositionCount_Encoding {
+    physical_value, 0, 65535, 1, 0, "Unitless" ;
+  }
+  SsPosition_VR_APP_VR_APP_Encoding {
+    logical_value, 0, "Fully close" ;
+    logical_value, 10, "10%" ;
+    logical_value, 30, "30%" ;
+    logical_value, 40, "40%" ;
+    logical_value, 50, "50%" ;
+    logical_value, 60, "60%" ;
+    logical_value, 70, "70%" ;
+    logical_value, 80, "80%" ;
+    logical_value, 90, "90%" ;
+    logical_value, 100, "Fully open" ;
+  }
+  SsRelayFault_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  SsSwitch_Encoding {
+    logical_value, 0, "inactive" ;
+    logical_value, 7, "inactive" ;
+  }
+  SsTeachRun_Encoding {
+    logical_value, 0, "No teach run" ;
+    logical_value, 1, "Teach run successful" ;
+  }
+  SsTelmCtrl_Encoding {
+    logical_value, 0, "No action" ;
+    logical_value, 1, "Full closed" ;
+    logical_value, 2, "10%" ;
+    logical_value, 3, "20%" ;
+    logical_value, 4, "30%" ;
+    logical_value, 5, "40%" ;
+    logical_value, 6, "50%" ;
+    logical_value, 7, "60%" ;
+    logical_value, 8, "70%" ;
+    logical_value, 9, "80%" ;
+    logical_value, 10, "90%" ;
+    logical_value, 11, "full open" ;
+    logical_value, 12, "stop" ;
+  }
+  SsThermalProtection_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  SsUnderVoltage_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_APActive_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_CloseSwitchError_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_ECUError_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_HallError_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "NoError" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_Initialized_Encoding {
+    physical_value, 0, 3, 1, 0, "Unitless" ;
+    logical_value, 0, "Not Initialized" ;
+    logical_value, 1, "Initializing" ;
+    logical_value, 2, "Initialized" ;
+    logical_value, 3, "Reserved" ;
+  }
+  Sunroof_LogicStatus_Encoding {
+    physical_value, 0, 15, 1, 0 ;
+    logical_value, 0, "No action" ;
+    logical_value, 1, "Open" ;
+    logical_value, 2, "Close" ;
+    logical_value, 3, "Stop" ;
+  }
+  Sunroof_Movement_Status_Encoding {
+    physical_value, 0, 15, 1, 0 ;
+    logical_value, 0, "Stopped" ;
+    logical_value, 1, "Opening tilt" ;
+    logical_value, 2, "Closing tilt" ;
+    logical_value, 3, "Opening slide" ;
+    logical_value, 4, "Closing slide" ;
+    logical_value, 5, "Reversing (AP/Stall)" ;
+    logical_value, 6, "Moving uninitialized(Invalid Status)" ;
+    logical_value, 7, "Reserved" ;
+  }
+  Sunroof_OpenSwitchError_Encoding_1 {
+    physical_value, 0, 1, 1, 0, "Unitless" ;
+    logical_value, 0, "NoError" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_OverVoltage_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "NoError" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_POS_VIT_Encoding {
+    physical_value, 0, 255, 1, 0 ;
+    logical_value, 1, "Fully close" ;
+    logical_value, 11, "10%" ;
+    logical_value, 31, "30%" ;
+    logical_value, 41, "40%" ;
+    logical_value, 51, "50%" ;
+    logical_value, 61, "60%" ;
+    logical_value, 71, "70%" ;
+    logical_value, 81, "80%" ;
+    logical_value, 91, "90%" ;
+    logical_value, 101, "Fully open" ;
+    logical_value, 102, "Tilt up" ;
+  }
+  Sunroof_Response_Error_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_StallActive_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_Switch_Status_Encoding {
+    physical_value, 0, 15, 1, 0, "Unitless" ;
+    logical_value, 0, "inactive" ;
+    logical_value, 1, "open switch pressed" ;
+    logical_value, 2, "close switch pressed" ;
+    logical_value, 3, "tilt switch pressed(reserved)" ;
+  }
+  Sunroof_ThermalProtection_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "NoError" ;
+    logical_value, 1, "Error" ;
+  }
+  Sunroof_UnderVoltage_Encoding {
+    physical_value, 0, 1, 1, 0 ;
+    logical_value, 0, "NoError" ;
+    logical_value, 1, "Error" ;
+  }
+  SunshadeErrorSts_Encoding {
+    logical_value, 0, "No Error" ;
+    logical_value, 1, "Error" ;
+  }
+  VIU_AmbientTemperature_Encoding {
+    physical_value, 0, 255, 1, 0, "Celsius" ;
+    logical_value, 255, "Failure" ;
+  }
+  VIU_IGNStatus_Encoding {
+    physical_value, 0, 3, 1, 0 ;
+    logical_value, 0, "OFF" ;
+    logical_value, 1, "Reserved" ;
+    logical_value, 2, "ON" ;
+    logical_value, 3, "Reserved" ;
+  }
+  VIU_SunRoof_ControlReq2_Encoding {
+    physical_value, 0, 255, 1, 0 ;
+    logical_value, 0, "No action" ;
+    logical_value, 1, "Full closed" ;
+    logical_value, 11, "10%" ;
+    logical_value, 21, "20%" ;
+    logical_value, 31, "30%" ;
+    logical_value, 41, "40%" ;
+    logical_value, 51, "50%" ;
+    logical_value, 61, "60%" ;
+    logical_value, 71, "70%" ;
+    logical_value, 81, "80%" ;
+    logical_value, 91, "90%" ;
+    logical_value, 101, "full open" ;
+    logical_value, 102, "Tilt Up" ;
+    logical_value, 204, "stop" ;
+    logical_value, 254, "Initialize" ;
+  }
+  VIU_SunRoof_ControlReq_Encoding {
+    physical_value, 0, 7, 1, 0 ;
+    logical_value, 0, "No Request" ;
+    logical_value, 1, "Request Close" ;
+    logical_value, 2, "Not Availiable" ;
+    logical_value, 3, "is reserved now?When there is the function of Global open in future , it will be used to opening the Sunroof ?" ;
+  }
+  VIU_VehicleSpeed_Encoding {
+    physical_value, 0, 8191, 1, 0, "km/h" ;
+  }
+  SrMasterSlave_Encoding {
+    physical_value, 0, 255, 1, 0, "Unitless" ;
+  }
+}
+
+Signal_representation {
+  SsAntiPinch_Encoding: SsAntiPinch ;
+  SsHallSensorFault_Encoding: SsHallSensorFault ;
+  SsMasterSlave_Encoding: SsMasterSlave ;
+  SsMovement_Encoding: SsMovement ;
+  SsNormalized_Encoding: SsNormalized ;
+  SsOverVoltage_Encoding: SsOverVoltage ;
+  SsPositionCount_Encoding: SsPositionCount ;
+  SsPosition_VR_APP_VR_APP_Encoding: SsPosition_VR_APP ;
+  SsRelayFault_Encoding: SsRelayFault ;
+  SsSwitch_Encoding: SsSwitch ;
+  SsTeachRun_Encoding: SsTeachRun ;
+  SsTelmCtrl_Encoding: SsTelmCtrl ;
+  SsThermalProtection_Encoding: SsThermalProtection ;
+  SsUnderVoltage_Encoding: SsUnderVoltage ;
+  Sunroof_APActive_Encoding: Sunroof_APActive ;
+  Sunroof_CloseSwitchError_Encoding: Sunroof_CloseSwitchError ;
+  Sunroof_ECUError_Encoding: Sunroof_ECUError ;
+  Sunroof_HallError_Encoding: Sunroof_HallError ;
+  Sunroof_Initialized_Encoding: Sunroof_Initialized ;
+  Sunroof_LogicStatus_Encoding: Sunroof_LogicStatus ;
+  Sunroof_Movement_Status_Encoding: Sunroof_Movement_Status ;
+  Sunroof_OpenSwitchError_Encoding_1: Sunroof_OpenSwitchError ;
+  Sunroof_OverVoltage_Encoding: Sunroof_OverVoltage ;
+  Sunroof_POS_VIT_Encoding: Sunroof_POS_VIT ;
+  Sunroof_Response_Error_Encoding: Sunroof_Response_Error ;
+  Sunroof_StallActive_Encoding: Sunroof_StallActive ;
+  Sunroof_Switch_Status_Encoding: Sunroof_Switch_Status ;
+  Sunroof_ThermalProtection_Encoding: Sunroof_ThermalProtection ;
+  Sunroof_UnderVoltage_Encoding: Sunroof_UnderVoltage ;
+  SunshadeErrorSts_Encoding: SunshadeErrorSts ;
+  VIU_AmbientTemperature_Encoding: VIU_AmbientTemperature ;
+  VIU_IGNStatus_Encoding: VIU_IGNStatus ;
+  VIU_SunRoof_ControlReq2_Encoding: VIU_SunRoof_ControlReq2 ;
+  VIU_SunRoof_ControlReq_Encoding: VIU_SunRoof_ControlReq ;
+  VIU_VehicleSpeed_Encoding: VIU_VehicleSpeed ;
+}

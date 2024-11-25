@@ -1,0 +1,2 @@
+[LVDT's Preset Data]
+CD701 = "\00\00\00\00"

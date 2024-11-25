@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:35	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:36	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	14:38	CD701	St0-Breakin	Check Constant Version Glass	New Step	NA	1
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:38	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	14:39	CD701	St0-Breakin	AT Check Data	New Step	NA	PS Voltage :0.00, Glass AP Force Max Limit :0.00, Sunshade AP Force Max Limit :0.00, Sunshade 02 AP Force Max Limit :0.00
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	AT Check Data	Deleted	NA	NA
+1	2024/9/18	14:39	CD701	St0-Breakin	Check Constant Version Glass	Deleted	NA	NA
+
+								
+1	2024/9/18	14:41	CD701	St0-Breakin	Check Communication Line	New Step	NA	1.00
+1	2024/9/18	14:41	CD701	St0-Breakin	AT Check Data	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:41	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Sunshade Close	Deleted	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	Check Communication Line	Deleted	NA	NA
+1	2024/9/18	14:44	CD701	St0-Breakin	AT Check Data	Deleted	NA	NA
+
+								
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	14:59	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:05	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	Edited		
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+1	2024/9/18	15:06	CD701	St0-Breakin	Send LIN Message for inalfa SCU	No Change	NA	NA
+
+								

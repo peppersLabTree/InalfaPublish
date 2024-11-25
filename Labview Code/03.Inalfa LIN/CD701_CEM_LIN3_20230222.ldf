@@ -1,0 +1,271 @@
+LIN_description_file;
+LIN_protocol_version = "2.1";
+LIN_language_version = "2.1";
+LIN_speed = 19.2 kbps;
+Nodes
+{
+  Master: CEM_CEM_LIN3, 20 ms, 0.1 ms;
+  Slaves: SRM_CEM_LIN3;
+}
+Signals
+{
+  Sunroof_APActive: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_CloseSwitchError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_ECUError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_HallError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_Initialized: 2, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_LogicStatus: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_Movement_Status: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_OpenSwitchError: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_OverVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_POS_VIT: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_Response_Error: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_StallActive: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_Switch_Status: 4, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_ThermalProtection: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  Sunroof_UnderVoltage: 1, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  VIU_AmbientTemperature: 8, 100, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_IGNStatus: 2, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_PLGMotCurPosVIT: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_PLGWinCurPosVIT: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_SunRoof_ControlReq: 3, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_SunRoof_ControlReq2: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  VIU_VehicleSpeed: 13, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B0: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B1: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B2: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B3: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B4: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B5: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B6: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_MasterReq_B7: 8, 0, CEM_CEM_LIN3, SRM_CEM_LIN3;
+  XCP_SlaveResp_B0: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B1: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B2: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B3: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B4: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B5: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B6: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+  XCP_SlaveResp_B7: 8, 0, SRM_CEM_LIN3, CEM_CEM_LIN3;
+}
+Diagnostic_signals
+{
+  MasterReqB0: 8, 0; 
+  MasterReqB1: 8, 0; 
+  MasterReqB2: 8, 0; 
+  MasterReqB3: 8, 0; 
+  MasterReqB4: 8, 0; 
+  MasterReqB5: 8, 0; 
+  MasterReqB6: 8, 0; 
+  MasterReqB7: 8, 0; 
+  SlaveRespB0: 8, 0; 
+  SlaveRespB1: 8, 0; 
+  SlaveRespB2: 8, 0; 
+  SlaveRespB3: 8, 0; 
+  SlaveRespB4: 8, 0; 
+  SlaveRespB5: 8, 0; 
+  SlaveRespB6: 8, 0; 
+  SlaveRespB7: 8, 0; 
+}
+Frames
+{
+  Sunroof_Status: 36, SRM_CEM_LIN3, 8 {
+    Sunroof_Initialized, 0;
+    Sunroof_OpenSwitchError, 2;
+    Sunroof_CloseSwitchError, 3;
+    Sunroof_APActive, 4;
+    Sunroof_StallActive, 5;
+    Sunroof_ECUError, 6;
+    Sunroof_HallError, 7;
+    Sunroof_POS_VIT, 8;
+    Sunroof_Movement_Status, 16;
+    Sunroof_Switch_Status, 20;
+    Sunroof_ThermalProtection, 24;
+    Sunroof_OverVoltage, 25;
+    Sunroof_UnderVoltage, 26;
+    Sunroof_Response_Error, 27;
+    Sunroof_LogicStatus, 28;
+  }
+  VIUFL_LIN_3: 5, CEM_CEM_LIN3, 8 {
+    VIU_IGNStatus, 0;
+    VIU_SunRoof_ControlReq, 2;
+    VIU_SunRoof_ControlReq2, 8;
+    VIU_PLGMotCurPosVIT, 16;
+    VIU_VehicleSpeed, 27;
+    VIU_AmbientTemperature, 40;
+    VIU_PLGWinCurPosVIT, 48;
+  }
+  XCP_MasterReq: 58, CEM_CEM_LIN3, 8 {
+    XCP_MasterReq_B0, 0;
+    XCP_MasterReq_B1, 8;
+    XCP_MasterReq_B2, 16;
+    XCP_MasterReq_B3, 24;
+    XCP_MasterReq_B4, 32;
+    XCP_MasterReq_B5, 40;
+    XCP_MasterReq_B6, 48;
+    XCP_MasterReq_B7, 56;
+  }
+  XCP_SlaveResp: 59, SRM_CEM_LIN3, 8 {
+    XCP_SlaveResp_B0, 0;
+    XCP_SlaveResp_B1, 8;
+    XCP_SlaveResp_B2, 16;
+    XCP_SlaveResp_B3, 24;
+    XCP_SlaveResp_B4, 32;
+    XCP_SlaveResp_B5, 40;
+    XCP_SlaveResp_B6, 48;
+    XCP_SlaveResp_B7, 56;
+  }
+}
+Diagnostic_frames
+{
+  MasterReq: 0x3C
+  {
+    MasterReqB0, 0;
+    MasterReqB1, 8;
+    MasterReqB2, 16;
+    MasterReqB3, 24;
+    MasterReqB4, 32;
+    MasterReqB5, 40;
+    MasterReqB6, 48;
+    MasterReqB7, 56;
+  }
+  SlaveResp: 0x3D
+  {
+    SlaveRespB0, 0;
+    SlaveRespB1, 8;
+    SlaveRespB2, 16;
+    SlaveRespB3, 24;
+    SlaveRespB4, 32;
+    SlaveRespB5, 40;
+    SlaveRespB6, 48;
+    SlaveRespB7, 56;
+  }
+}
+Node_attributes
+{
+  SRM_CEM_LIN3
+  {
+    LIN_protocol = "2.1";
+    configured_NAD = 36;
+    initial_NAD = 36;
+    product_id = 0x07, 0x00;
+    P2_min = 50 ms;
+    ST_min = 0 ms;
+  }
+}
+Schedule_tables {
+  Cem_Lin3DiagRequestSchedule_CEM_LIN3
+  {
+  }
+  Cem_Lin3DiagResponseSchedule_CEM_LIN3
+  {
+  }
+  Cem_Lin3Schedule01_CEM_LIN3
+  {
+  }
+  DebugTable
+  {
+  }
+  XCP_Daq_Table
+  {
+  }
+}
+Signal_encoding_types
+{
+  scaling_xnet_0
+  {
+    physical_value, 0, 1, 1, 0, "";
+  }
+  scaling_xnet_1
+  {
+    physical_value, 0, 3, 1, 0, "Unitless";
+  }
+  scaling_xnet_10
+  {
+    physical_value, 0, 8191, 0.05625, 0, "km/h";
+  }
+  scaling_xnet_2
+  {
+    physical_value, 0, 15, 1, 0, "";
+  }
+  scaling_xnet_3
+  {
+    physical_value, 0, 1, 1, 0, "Unitless";
+  }
+  scaling_xnet_4
+  {
+    physical_value, 0, 255, 1, 0, "";
+  }
+  scaling_xnet_5
+  {
+    physical_value, 0, 15, 1, 0, "Unitless";
+  }
+  scaling_xnet_6
+  {
+    physical_value, 0, 255, 0.5, -40, "Celsius";
+  }
+  scaling_xnet_7
+  {
+    physical_value, 0, 3, 1, 0, "";
+  }
+  scaling_xnet_8
+  {
+    physical_value, 0, 255, 1, 0, "%";
+  }
+  scaling_xnet_9
+  {
+    physical_value, 0, 7, 1, 0, "";
+  }
+}
+Signal_representations
+{
+  scaling_xnet_0:
+    Sunroof_APActive,
+    Sunroof_CloseSwitchError,
+    Sunroof_ECUError,
+    Sunroof_HallError,
+    Sunroof_OverVoltage,
+    Sunroof_Response_Error,
+    Sunroof_StallActive,
+    Sunroof_ThermalProtection,
+    Sunroof_UnderVoltage;
+  scaling_xnet_1:
+    Sunroof_Initialized;
+  scaling_xnet_10:
+    VIU_VehicleSpeed;
+  scaling_xnet_2:
+    Sunroof_LogicStatus,
+    Sunroof_Movement_Status;
+  scaling_xnet_3:
+    Sunroof_OpenSwitchError;
+  scaling_xnet_4:
+    Sunroof_POS_VIT,
+    VIU_SunRoof_ControlReq2,
+    XCP_MasterReq_B0,
+    XCP_MasterReq_B1,
+    XCP_MasterReq_B2,
+    XCP_MasterReq_B3,
+    XCP_MasterReq_B4,
+    XCP_MasterReq_B5,
+    XCP_MasterReq_B6,
+    XCP_MasterReq_B7,
+    XCP_SlaveResp_B0,
+    XCP_SlaveResp_B1,
+    XCP_SlaveResp_B2,
+    XCP_SlaveResp_B3,
+    XCP_SlaveResp_B4,
+    XCP_SlaveResp_B5,
+    XCP_SlaveResp_B6,
+    XCP_SlaveResp_B7;
+  scaling_xnet_5:
+    Sunroof_Switch_Status;
+  scaling_xnet_6:
+    VIU_AmbientTemperature;
+  scaling_xnet_7:
+    VIU_IGNStatus;
+  scaling_xnet_8:
+    VIU_PLGMotCurPosVIT,
+    VIU_PLGWinCurPosVIT;
+  scaling_xnet_9:
+    VIU_SunRoof_ControlReq;
+}
